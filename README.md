@@ -1,0 +1,2 @@
+# ResumeForNEC
+靜態
